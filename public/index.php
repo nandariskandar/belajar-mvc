@@ -1,4 +1,5 @@
 <?php
-require "../app/init.php";
+require_once "../app/init.php";
 
-$aplikasi = new App;
+
+$app = new App;
